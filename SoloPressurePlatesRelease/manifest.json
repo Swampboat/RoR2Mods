@@ -1,0 +1,10 @@
+﻿{
+	"name": "SoloPressurePlates",
+	"version_number": "1.0",
+	"website_url": "https://github.com/Swampboat/RoR2Mods",
+	"description": "Only one pressure plates on Abandoned Aquaduct is needed to open the ancient gate, so you can always do them solo!",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
